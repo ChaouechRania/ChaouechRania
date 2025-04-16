@@ -3,7 +3,6 @@
 - 🎯 I'm ready for Golang, MuleSoft , Api Management, Google Cloud Platform, Kubernetes, Postgres, Elasticsearch stack.
 - 👯 I’m looking to collaborate on interesting programming problems.
 - 🏅 Certified: [![MuleSoft Badge](https://img.shields.io/badge/MuleSoft-CertifiedDeveloper-a9eafe?style=flat&logo=mulesoft&logoColor=white)]()
-- ⚡ Fun fact: I’m addicted to productivity hacks ☕️
 - 📫 How to reach me:
    * [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8)](https://www.linkedin.com/in/rania-chaouech-883899139/)
    * [![Email Badge](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rania.chaouech@gmail.com)
