@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on interesting programming problems.
 - 📫 How to reach me:
    * [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8)](https://www.linkedin.com/in/rania-chaouech-883899139/)
+   * [![Email Badge](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rania.chaouech@gmail.com)
 ## I have 3 🧢
 
 - 📚 Fullstack Engineer
