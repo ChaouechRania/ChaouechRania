@@ -12,7 +12,7 @@
 - 📚 Fullstack Engineer
    * Golang, Typescript, Vue.js/Nuxt.js, SQL and NoSQL databases.
 - 📉 Integration API:
-  * MuleSoft, Anypoint Platform, Dataweaves, RAML. 
+  * MuleSoft, Anypoint Platform, DataWeave, RAML. 
 - 🤖 DevOps/Cloud  Engineer
   *  Kubernetes, Docker, Google Cloud Platform
 
