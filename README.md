@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🎯 I'm ready for Golang, MuleSoft , Api Management, Google Cloud Platform, Kubernetes, Postgres, Elasticsearch stack.
-- 🌱 I’m currently learning Kubernetes in depth.
 - 👯 I’m looking to collaborate on interesting programming problems.
 - 📫 How to reach me:
    * [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8)](https://www.linkedin.com/in/rania-chaouech-883899139/)
