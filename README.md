@@ -9,10 +9,10 @@
    * [![Email Badge](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rania.chaouech@gmail.com)
 ## I have 3 🧢
 
-- 📚 Fullstack Engineer
-   * Golang, Typescript, Vue.js/Nuxt.js, SQL and NoSQL databases.
 - 📉 Integration API:
   * MuleSoft, Anypoint Platform, DataWeave, RAML. 
+- 📚 Fullstack Engineer
+   * Golang, Typescript, Vue.js/Nuxt.js, SQL and NoSQL databases.
 - 🤖 DevOps/Cloud  Engineer
   *  Kubernetes, Docker, Google Cloud Platform
 
