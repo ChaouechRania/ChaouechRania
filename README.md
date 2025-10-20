@@ -12,9 +12,9 @@
 - 📉 Integration API:
   * MuleSoft, Anypoint Platform, DataWeave, RAML. 
 - 📚 Fullstack Engineer
-   * Golang, Typescript, Vue.js/Nuxt.js, SQL and NoSQL databases.
+   * Golang, Vue.js/Nuxt.js, SQL and NoSQL databases.
 - 🤖 DevOps/Cloud  Engineer
-  *  Kubernetes, Docker, Google Cloud Platform
+  *  Kubernetes, Docker, Heorku, Google Cloud Platform
 
 
 <!--
