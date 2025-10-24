@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎯 I'm ready for  MuleSoft , Golang, Api Management, Google Cloud Platform, Kubernetes, Postgres, Elasticsearch stack.
+- 🎯 I'm ready for  MuleSoft , Api Management, Golang, Google Cloud Platform, Kubernetes, Postgres, Elasticsearch stack.
 - 🏅 Certified: [![MuleSoft Badge](https://img.shields.io/badge/MuleSoft-CertifiedDeveloper1-a9eafe?style=flat&logo=mulesoft&logoColor=white)]()
 - 🌱 I’m currently learning Mulesoft in depth to prepare for the certification level 2.
 - 👯 I’m looking to collaborate on interesting programming problems.
